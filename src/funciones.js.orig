@@ -1,0 +1,8 @@
+test2
+<<<<<<< HEAD
+Linea de comando 1
+linea de comando 2
+=======
+test3
+test4
+>>>>>>> 07c7bea7cfd3a4b860aa51e9a1afe3bc574f914b
